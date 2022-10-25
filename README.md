@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Denis91
-- 👀 I’m interested in iOS develpment
-- 🌱 I’m currently learning swift :) 
+
 
 
 <!---
